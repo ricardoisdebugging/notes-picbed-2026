@@ -1,0 +1,43 @@
+# ===== Deep Learning Core =====
+torch==2.10.0+cpu
+torchaudio==2.10.0+cpu
+torchvision==0.25.0+cpu
+numpy==2.3.5
+scipy==1.17.1
+sympy==1.14.0
+networkx==3.6.1
+
+# ===== HuggingFace Ecosystem =====
+transformers==5.2.0
+sentence-transformers==5.2.3
+huggingface_hub==1.4.1
+tokenizers==0.22.2
+safetensors==0.7.0
+regex==2026.2.19
+filelock==3.20.0
+fsspec==2025.12.0
+
+# ===== ML Utilities =====
+scikit-learn==1.8.0
+joblib==1.5.3
+threadpoolctl==3.6.0
+
+# ===== Web API =====
+fastapi==0.133.1
+starlette==0.52.1
+pydantic==2.12.5
+pydantic_core==2.41.5
+uvicorn==0.41.0
+h11==0.16.0
+
+# ===== HTTP / CLI Support =====
+httpx==0.28.1
+httpcore==1.0.9
+idna==3.11
+certifi==2026.2.25
+click==8.3.1
+colorama==0.4.6
+rich==14.3.3
+tqdm==4.67.3
+typing_extensions==4.15.0
+typing-inspection==0.4.2
